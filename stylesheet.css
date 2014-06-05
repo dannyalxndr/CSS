@@ -1,0 +1,52 @@
+body {
+	background-color: black;
+}
+
+div:hover {
+	box-shadow: 0px 0px 0px;
+	font-weight: lighter;
+}
+
+a:visited {
+	color: #00ffdd;
+}
+
+.color-box {
+	color: white;
+	border: 1px solid white;
+	margin-top: 10px;
+	width: 150px;
+	height: 50px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+#red-box {
+	background-color:red;
+}
+
+#orange-box {
+	background-color:orange;
+	margin-left: 30px;
+}
+
+#yellow-box {
+	background-color:yellow;
+	margin-left: 60px;
+}
+
+#green-box {
+	background-color:green;
+	margin-left: 90px;
+}
+
+#blue-box {
+	background-color:blue;
+	margin-left: 120px;
+}
+
+#indigo-box {
+	background-color:indigo;
+	margin-left: 150px;
+}
+
